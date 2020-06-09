@@ -11,5 +11,6 @@
     what creative things I was going to add to the code. 
  
  ## Creative Add-ins
-  1) ndwndonwod
+  1) Changing the colours of the curves across the column
+     * 
 </body>
