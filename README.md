@@ -13,8 +13,8 @@
  ## Creative Add-ins
   1) Changing the colours of the curves as time progresses
         * I used [this link](https://processing.org/reference/frameCount.html) to figure out what frameCount and frameRate 
-      was and then used it to make the colour change (with if statements) as the framCount got higher. Remebering that
-      when the curve drawing reset, the frameCount also had to be reset. 
+          was and then used it to make the colour change (with if statements) as the framCount got higher. Remebering that
+          when the curve drawing reset, the frameCount also had to be reset. 
   2) Adding words behind the curves 
-    *
+        * bla bla
 </body>
