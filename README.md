@@ -17,5 +17,10 @@
           when the curve drawing reset, the frameCount also had to be reset. 
   2) Adding words behind the curves 
         * I used [this link](https://processing.org/reference/text_.html) to brush up on text output in processing. 
-        * Then I started by adding a title to my table, this was easy because it didn't require any looping
+        * Then I started by adding a title to my table, this was easy because it didn't require any looping.
+        * Then I started to figure out how to output text behind the curves in the outside row and column. To do this, 
+          I added a text output statement after each elipse drawn in the first row and column. I adjusted the x and y
+          values of the text string so it would output in the middle of each elipse and voila. 
+        * Then the tricky part, firguring out how to output text in each other row and column on the inside. The most 
+          confusing part of doing this was trying to figure out which x and y values to put in the text statement.
 </body>
