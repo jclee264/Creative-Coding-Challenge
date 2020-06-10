@@ -9,6 +9,9 @@
     coding (as opposed to just copy and pasting the code)
   * After coding with Dan and documenting the code so I could remember what each part of the code did, I had to decide
     what creative things I was going to add to the code. 
+  * Note: In Dan's code, he had lines being drawn where the points were going, which helped visually while coding. 
+          But to clean it up afterwards, I took out that part of code so the output was just focused on the curves
+          themselves. 
  
  ## Creative Add-ins
   1) Changing the colours of the curves as time progresses
