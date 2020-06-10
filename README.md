@@ -16,5 +16,6 @@
           was and then used it to make the colour change (with if statements) as the frameCount got higher. Remembering that
           when the curve drawing reset, the frameCount also had to be reset. 
   2) Adding words behind the curves 
-        * bla bla
+        * I used [this link](https://processing.org/reference/text_.html) to brush up on text output in processing. 
+        * Then I started by adding a title to my table, this was easy because it didn't require any looping
 </body>
