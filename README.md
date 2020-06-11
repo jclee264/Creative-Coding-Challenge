@@ -24,6 +24,6 @@
         * Then I started to figure out how to output text behind the circles in the outside row and column. To do this, 
           I added a text output statement after each ellipse drawn in the first row and column. I adjusted the x and y
           values of the text string so it would output in the middle of each ellipse and voila. 
-        * Then the tricky part, firguring out how to output text behind the other curves in the inside rows and columns.
-          The most confusing part of doing this was trying to figure out which x and y values to put in the text statement.
+        * I was going to output text behind the other curves, but decided that would be way too messy and would take away 
+          from the cool colour changing effect across the table.
 </body>
