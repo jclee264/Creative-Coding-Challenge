@@ -26,4 +26,7 @@
           values of the text string so it would output in the middle of each ellipse and voila. 
         * I was going to output text behind the other curves, but decided that would be way too messy and would take away 
           from the cool colour changing effect across the table.
+  ## Conclusion
+   * In conclusion, this challenge was actually pretty cool. It taught me some new stuff and the end result with the colours
+     and all was very cool! I would definitely try another one of Dan's challenges after doing this one. 
 </body>
